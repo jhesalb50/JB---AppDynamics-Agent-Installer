@@ -2,6 +2,8 @@
 
 AppDynamics Agent Manager (Linux)
 
+---
+
 A secure, GUI‑based lifecycle manager for AppDynamics Machine Agents on Linux.  
 Built for operators, SREs, and platform teams.
 
